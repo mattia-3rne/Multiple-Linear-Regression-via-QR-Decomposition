@@ -50,7 +50,7 @@ A 2x2 grid showing the marginal effect of each feature on the house price.
     jupyter notebook
     ```
 
-2.  Open the main notebook file (`QR_Decomposition_Multiple_Linear_Regression.ipynb`).
+2.  Open the main notebook file (`main.ipynb`).
 
 3.  **Run All Cells**:
     The notebook is self-contained. It will:
@@ -64,9 +64,8 @@ A 2x2 grid showing the marginal effect of each feature on the house price.
 
 ## 📂 Project Structure
 
-* `QR_Decomposition_Multiple_Linear_Regression.ipynb`: The main analysis notebook.
-* `house_prices_dataset_linear_generation.py`: Script to generate data.
-* `house_prices_dataset_linear.csv`: The generated dataset.
+* `dataset_generation.py`: Script to generate data.
 * `requirements.txt`: Python package dependencies.
+* `dataset.csv`: The generated house dataset.
+* `main.ipynb`: The main jupyter notebook.
 * `README.md`: Project documentation.
-* `assets`: Example plots.
