@@ -64,7 +64,7 @@ A 2x2 grid showing the marginal effect of each feature on the house price.
 
 ## 📂 Project Structure
 
-* `dataset_generation.py`: Script to generate data.
+* `dataset_generation.py`: Script to generate the data.
 * `requirements.txt`: Python package dependencies.
 * `dataset.csv`: The generated house dataset.
 * `main.ipynb`: The main jupyter notebook.
