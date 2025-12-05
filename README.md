@@ -34,7 +34,7 @@ A 2x2 grid showing the marginal effect of each feature on the house price.
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone https://github.com/mattia-3rne/Multiple-Linear-Regression-via-QR-Decomposition.git
+    git clone https://github.com/mattia-3rne/multiple-linear-regression-via-qr-decomposition.git
     ```
 
 2.  **Install dependencies**:
@@ -69,4 +69,5 @@ A 2x2 grid showing the marginal effect of each feature on the house price.
 * `dataset.csv`: The generated house dataset.
 * `main.ipynb`: The main jupyter notebook.
 * `README.md`: Project documentation.
+
 
